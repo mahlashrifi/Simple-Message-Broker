@@ -6,7 +6,7 @@ In this message broker, clients can publish messages under topics of their choic
 
 
 
-![Broker and Client Interaction](https://github.com/mahlashrifi/Simple-Message-Broker/mb.png)
+![Broker and Client Interaction](https://github.com/mahlashrifi/Simple-Message-Broker/blob/master/mb.png)
 
 
 
