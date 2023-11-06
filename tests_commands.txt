@@ -1,0 +1,7 @@
+127.0.0.1 4040 subscribe science biology math
+127.0.0.1 4040 subscribe math
+127.0.0.1 4040 publish science "This is a science msg"
+127.0.0.1 4040 publish biology "This is a biology msg"
+127.0.0.1 4040 publish biology "This is a math msg"
+127.0.0.1 4040 ping
+  
